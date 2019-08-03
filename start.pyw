@@ -12,6 +12,7 @@ ildiz   = 8   # usish jarayoni
 burum   = 20  # barglar yoyiladi kichrayadi
 ay      = 73  # zaruriy foyiz
 
+title('Barg')
 ht()
 speed(0)
 width(3)
