@@ -3,4 +3,4 @@
 
 python
 
-[imgl]: Untitled-1 copy.jpg "Barg" ![alt text][imgl]
+![](http://img.uz/s?g6ggehc)
