@@ -3,4 +3,4 @@
 
 python
 
-![](http://img.uz/s?g6ggehc)
+![](Untitled-1 copy.jpg)
