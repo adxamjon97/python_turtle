@@ -3,5 +3,5 @@
 
 python
 
-![alt text](http://img.uz/s?g6ggehc "Logo Title Text 1")
+![alt text](Untitled-1 copy.jpg "Logo Title Text 1")
 
