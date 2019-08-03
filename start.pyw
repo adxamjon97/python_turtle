@@ -29,6 +29,8 @@ def start():
 
 
 #TODO: ozma oz rivojlantirishkere
+    # masalan: rangbarang
+    # va birdaniga barcha shoxlari bo'yalishini qilish
 def func(a, b=1):
     ''' Asosiy algoritm barg uchun '''
     fd(a)
