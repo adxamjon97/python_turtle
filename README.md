@@ -3,4 +3,5 @@
 
 python
 
-![alt text](python_turtle/Untitled-1 copy.jpg "test")
+![alt text](http://img.uz/s?g6ggehc "Logo Title Text 1")
+
