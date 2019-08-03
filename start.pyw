@@ -1,12 +1,50 @@
+'''
+Barig algoritmi fractal sumon
+@author Adxajon97 <adxamjon97@umail.uz>
+'''
+
 from turtle import *
 
-# setting
+uzunlik = 400  # Uzunligi
+oraliq  = 5    # bo'g'ini
+foiz    = (200 / oraliq) + 4  # foyizi
+ildiz   = 8   # usish jarayoni
+burum   = 20  # barglar yoyiladi kichrayadi
+ay      = 73  # zaruriy foyiz
+
+ht()
+speed(0)
 width(3)
+bgcolor('white')
+
+
+def start():
+    ''' qalamni boshlang'ich pozitsyaga keltiradi '''
+    up()
+    lt(-90)
+    fd(300)
+    lt(180)
+    down()
+
+
+#TODO: ozma oz rivojlantirishkere
+def func(a, b=1):
+    ''' Asosiy algoritm barg uchun '''
+    fd(a)
+    bk(a)
+    if b < ildiz:
+        lt(burum)
+        func((a * foiz) / ay, b + 1)
+        lt(-burum * 2)
+        func((a * foiz) / ay, b + 1)
+        lt(burum)
+        
+        fd((a * foiz) / ay)
+        func((a * foiz) / ay, b + 1)
+        bk((a * foiz) / ay)
 
 # start
-for i in range(4):
-    fd(100)
-    lt(90)
-    
-# end
-done()
+start()
+fd(50)
+func(uzunlik)
+mainloop()
