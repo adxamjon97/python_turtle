@@ -1,6 +1,6 @@
 # Python turtle
 
-![](barg.jpg "test")
+
 
 ***
   Salom
@@ -14,4 +14,5 @@
 - fractal 
 - barg
 
+![](barg.jpg "test")
 
