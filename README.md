@@ -1,7 +1,4 @@
-# python_turtle
- turtle (toshbaqa haqida)
+# New Document
 
-python
-
-![alt text](Untitled-1 copy.jpg "Logo Title Text 1")
+![](barg.jpg "test")
 
