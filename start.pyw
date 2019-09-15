@@ -41,7 +41,7 @@ def func(a, b=1):
         lt(-burum * 2)
         func((a * foiz) / ay, b + 1)
         lt(burum)
-        
+
         fd((a * foiz) / ay)
         func((a * foiz) / ay, b + 1)
         bk((a * foiz) / ay)
