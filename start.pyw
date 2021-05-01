@@ -16,7 +16,7 @@ burum   = 20  # barglar yoyiladi kichrayadi
 ay      = 73  # zaruriy foyiz
 
 title('Barg')
-ht()
+#ht()
 #speed(0)
 tracer(0, 0) # birdaniga chizilib qoladi barchasi
 width(3)
